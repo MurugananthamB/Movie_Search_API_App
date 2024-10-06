@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family:"Poppins", system-ui;
+    src: url(./assets/fonts/Poppins-Medium.ttf);
+}
+
+@font-face{
+    font-family: "Orbitron", sans-serif;
+    src: url(./assets/fonts/Orbitron-Medium.ttf);
+}
