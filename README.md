@@ -9,7 +9,7 @@ This is a full-featured movie search application built using **React** and integ
 - **Favorites List**: Add movies to a personal favorites list for easy access.
 - **Responsive Design**: The app is fully responsive and optimized for various screen sizes.
 
-## Demo : [Click Here!!!]()
+## Demo : [Click Here!!!](https://moviesearchappapi.netlify.app/)
 
 Check out the live demo of the application: [Movie Search App Demo](#)
 
